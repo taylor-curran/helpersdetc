@@ -20,7 +20,7 @@ setuptools.setup(
 	# Remember to Increment Version Numbers
 	# These do NOT work as decimals.
 	# For example: 0.342 > 0.38 since 342 > 38
-  version="0.0.1",
+  version="0.0.24",
   author="taylor-curran",
   description="Helper Functions by Taylor Curran",
   long_description=LONG_DESCRIPTION,
